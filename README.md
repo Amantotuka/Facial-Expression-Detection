@@ -1,6 +1,6 @@
 # Facial-Expression-Detection
 
-Facial Expression Detection 
+
 
 # Library Used
 
